@@ -1,0 +1,51 @@
+.jimu-main-background {
+  background-color: #fff;
+}
+
+.jimu-title, .jimu-subtitle {
+  color: #323232;
+}
+
+.jimu-widget-header-controller {
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border-bottom: 3px solid #323232;
+}
+
+.jimu-widget-header-controller .icon-node {
+  opacity: 1;
+  background: #323232;
+  border-right: 0;
+}
+
+.jimu-widget-header-controller .icon-node {
+  opacity: 1;
+  background: #323232;
+  border-right: 0;
+  height: 30px !important;
+  width: 30px !important;
+}
+
+.jimu-widget-header-controller .icon-node {
+  opacity: 1;
+  background: #323232;
+  border-right: 0;
+  height: 30px !important;
+  width: 30px !important;
+  margin-top: 4px;
+  margin-right: 10px;
+}
+
+.jimu-widget-header-controller .icon-node {
+  opacity: 1;
+  background: #323232;
+  border-right: 0;
+  height: 30px !important;
+  width: 30px !important;
+  margin-top: 4px;
+  margin-right: 10px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+}
